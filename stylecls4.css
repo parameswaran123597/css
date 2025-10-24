@@ -1,0 +1,31 @@
+h2{
+    margin-top: auto;
+    text-align: center;
+}
+img{
+    float: left;
+}
+.announcment{
+    position: relative;
+  background-color: lightgreen;
+  width: 300px;
+  border: 2px solid red;
+  padding: 50px;
+float: right;
+}
+.announcment p{ 
+    overflow: auto;
+  clear: left;
+}
+.glyphicon{ 
+    position: absolute; 
+color:orangered;  
+font-size:20px;  
+margin:2px;  
+}  
+.material-icons{
+    position: absolute;  
+color:red;  
+font-size:20px;  
+margin:2px;  
+}  
